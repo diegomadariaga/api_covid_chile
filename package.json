@@ -1,0 +1,19 @@
+{
+  "name": "api_covid_chile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron .",
+  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "electron": "^16.0.1",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
